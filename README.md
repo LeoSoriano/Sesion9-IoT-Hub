@@ -146,7 +146,7 @@ Es la conexion de las cosas.
 
  Esta seria la forma de hacerlo por comando **az webapp update -n paginaiot -gsesion9 --https-only=true**
 
-1[Comando para Activar el HTTP](Imagenes/ComandoParaActicarelHTTPS.PNG)
+![Comando para Activar el HTTP](Imagenes/ComandoParaActicarelHTTPS.PNG)
 
 29.- Ahora si vamos a configurar el app service co el comando **az webapp config set -n paginaiot -g sesion9 --web-sockets-enable true**.
 
